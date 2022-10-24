@@ -285,13 +285,13 @@ Raman Shift&nbsp;"cm<sup>-1<sup>
 5. Sheet name: Mechanical properties
 
   
-Number of variables: 10
+- Number of variables: 10
 
   
-Number of cases/rows: 34
+- Number of cases/rows: 34
 
   
-Variable list      
+- Variable list      
 Year&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Year of sample collection"   
 Sample ID&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Sample ID"   
 Surface&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"The outermost surface"   
@@ -302,6 +302,6 @@ Redueced modulus&nbsp;"Reduced modulus"
 Hardness&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Hardness"   
 
   
-Units of measurment   
+- Units of measurment   
 Reduced Modulus&nbsp;"GPa"   
 Hardness&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"GPa"   
